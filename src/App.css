@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.noMoviesMessage {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.movieSectionContainer {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.savedMoviesConstainer {
+  margin-left: auto;
+  margin-right: auto;
+}
